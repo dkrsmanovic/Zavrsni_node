@@ -1,13 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc47dba-174b-40d1-9247-9f0994dd8404" name="Default Changelist" comment="" />
+    <list default="true" id="8cc47dba-174b-40d1-9247-9f0994dd8404" name="Default Changelist" comment="Pocetak">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/film.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/komentar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/signature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/film.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/komentar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/film.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/komentar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/signature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/assets/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/F.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/Film.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/K.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/Komentar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/components/UserView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/views/Account.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oTXewNMixVp4lWi2EXgTAh8mei" />
@@ -17,14 +80,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.27" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/skript-jezici-rokovnik-master" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dkrsm\WebstormProjects\zavrsni_node.js\view\src\assets" />
+      <recent name="C:\Users\dkrsm\WebstormProjects\zavrsni_node.js\view\dist\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dkrsm\WebstormProjects\zavrsni_node.js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,21 +108,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613311653636</updated>
-      <workItem from="1613311656323" duration="270000" />
+      <workItem from="1613311656323" duration="1131000" />
+      <workItem from="1613423131674" duration="622000" />
+      <workItem from="1613484939656" duration="9406000" />
+      <workItem from="1613502236817" duration="4034000" />
+      <workItem from="1613513269660" duration="6801000" />
     </task>
+    <task id="LOCAL-00001" summary="Pocetak">
+      <created>1613311994483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613311994483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pocetak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pocetak" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1613311833429">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613522190463">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613311833429" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1613311928747">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1613522190463" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1613494734493">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1613311928747" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613494734493" />
+    <state x="593" y="352" key="Github.CreateGistDialog" timestamp="1613312117500">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="593" y="352" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1613312117500" />
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1613494928167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1613494928167" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1613494928167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1613494928167" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1613494928167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1613494928167" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1613494928167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1613494928167" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1613312167513">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1613312167513" />
+    <state x="360" y="170" key="Vcs.Push.Dialog.v2" timestamp="1613312295325">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="170" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1613312295325" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613311964902">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1613311964902" />
   </component>
 </project>
